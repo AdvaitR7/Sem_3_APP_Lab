@@ -1,0 +1,1 @@
+Write a program to create a simplified library management system using OOP Principles in python. This system should manage books and patrons (Library users), allowing for basic operations such as adding new books, registering patrons, borrowing books, and returning books.
