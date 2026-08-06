@@ -28,10 +28,11 @@ def longest_common_subsequence(str1, str2):
     return lcs, dp[m][n]
 
 
-sequence1 = input("Enter the first sequence: ")
-sequence2 = input("Enter the second sequence: ")
+sequence1 = input("1st sequene ")
+sequence2 = input("2nd: ")
 
 lcs, length = longest_common_subsequence(sequence1, sequence2)
 
 print("\nLongest Common Subsequence:", lcs)
-print("Length of LCS:", length)
+print("Length LCS:", length)
+
