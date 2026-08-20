@@ -35,4 +35,3 @@ lcs, length = longest_common_subsequence(sequence1, sequence2)
 
 print("\nLongest Common Subsequence:", lcs)
 print("Length LCS:", length)
-
