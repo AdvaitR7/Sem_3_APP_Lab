@@ -1,0 +1,92 @@
+[
+    {
+        "Student_ID": "STU1001",
+        "Full_Name": "Diya Sharma",
+        "Email": "diya.sharma45@university.edu",
+        "Gender": "Male",
+        "Age": "19",
+        "Major": "Mechanical Engineering",
+        "GPA": "3.6",
+        "Enrollment_Year": "2023"
+    },
+    {
+        "Student_ID": "STU1002",
+        "Full_Name": "William Brown",
+        "Email": "william.brown14@university.edu",
+        "Gender": "Male",
+        "Age": "18",
+        "Major": "Electrical Engineering",
+        "GPA": "2.85",
+        "Enrollment_Year": "2023"
+    },
+    {
+        "Student_ID": "STU1003",
+        "Full_Name": "Charlotte Joshi",
+        "Email": "charlotte.joshi93@university.edu",
+        "Gender": "Non-binary",
+        "Age": "22",
+        "Major": "Psychology",
+        "GPA": "2.83",
+        "Enrollment_Year": "2025"
+    },
+    {
+        "Student_ID": "STU1004",
+        "Full_Name": "Aarav Nair",
+        "Email": "aarav.nair99@university.edu",
+        "Gender": "Female",
+        "Age": "20",
+        "Major": "Business Administration",
+        "GPA": "2.73",
+        "Enrollment_Year": "2025"
+    },
+    {
+        "Student_ID": "STU1005",
+        "Full_Name": "Diya Gupta",
+        "Email": "diya.gupta58@university.edu",
+        "Gender": "Male",
+        "Age": "20",
+        "Major": "Economics",
+        "GPA": "3.41",
+        "Enrollment_Year": "2023"
+    },
+    {
+        "Student_ID": "STU1006",
+        "Full_Name": "Oliver Davis",
+        "Email": "oliver.davis25@university.edu",
+        "Gender": "Female",
+        "Age": "18",
+        "Major": "Mathematics",
+        "GPA": "2.94",
+        "Enrollment_Year": "2025"
+    },
+    {
+        "Student_ID": "STU1007",
+        "Full_Name": "William Joshi",
+        "Email": "william.joshi18@university.edu",
+        "Gender": "Male",
+        "Age": "23",
+        "Major": "Electrical Engineering",
+        "GPA": "3.66",
+        "Enrollment_Year": "2023"
+    },
+    {
+        "Student_ID": "STU1008",
+        "Full_Name": "Isha Patel",
+        "Email": "isha.patel58@university.edu",
+        "Gender": "Female",
+        "Age": "21",
+        "Major": "Economics",
+        "GPA": "2.74",
+        "Enrollment_Year": "2025"
+    },
+    {
+        "Student_ID": "STU1009",
+        "Full_Name": "Kabir Kumar",
+        "Email": "kabir.kumar99@university.edu",
+        "Gender": "Non-binary",
+        "Age": "23",
+        "Major": "Data Science",
+        "GPA": "3.41",
+        "Enrollment_Year": "2024"
+    }
+]

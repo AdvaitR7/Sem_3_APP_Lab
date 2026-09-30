@@ -1,0 +1,10 @@
+Student_ID,Full_Name,Email,Gender,Age,Major,GPA,Enrollment_Year
+STU1001,Diya Sharma,diya.sharma45@university.edu,Male,19,Mechanical Engineering,3.6,2023
+STU1002,William Brown,william.brown14@university.edu,Male,18,Electrical Engineering,2.85,2023
+STU1003,Charlotte Joshi,charlotte.joshi93@university.edu,Non-binary,22,Psychology,2.83,2025
+STU1004,Aarav Nair,aarav.nair99@university.edu,Female,20,Business Administration,2.73,2025
+STU1005,Diya Gupta,diya.gupta58@university.edu,Male,20,Economics,3.41,2023
+STU1006,Oliver Davis,oliver.davis25@university.edu,Female,18,Mathematics,2.94,2025
+STU1007,William Joshi,william.joshi18@university.edu,Male,23,Electrical Engineering,3.66,2023
+STU1008,Isha Patel,isha.patel58@university.edu,Female,21,Economics,2.74,2025
+STU1009,Kabir Kumar,kabir.kumar99@university.edu,Non-binary,23,Data Science,3.41,2024
