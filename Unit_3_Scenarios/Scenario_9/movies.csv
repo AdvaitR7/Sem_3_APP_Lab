@@ -1,0 +1,17 @@
+Movie ID,Title,Genre,Year,Rating
+M001,Inception,Sci-Fi,2010,8.8
+M002, Interstellar ,sci fi,2014,8.6
+M003,The Dark Knight,Action,2008,9.0
+M004,Titanic,Romance,1997,7.9
+M005,Dune,Sci-Fi,2021,8.0
+M006,Parasite,Thriller,2019,8.5
+M007,the matrix,Sci Fi,1999,8.7
+M008,Avatar,Science Fiction,2009,
+M009,3 Idiots,Comedy,2009,8.4
+M010,Spirited Away,Animation,2001,8.6
+M011,Jurassic Park,,1993,8.2
+M012,Oppenheimer,Drama,2023,8.6
+M013,Dune,Sci-Fi,1984,6.4
+M014,The Social Network,drama,,7.8
+M015,Spider-Man: Into the Spider-Verse,Animation,2018,8.4
+M016, Everything Everywhere All at Once ,Sci-Fi,2022,

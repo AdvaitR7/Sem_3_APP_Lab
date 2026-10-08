@@ -1,0 +1,17 @@
+Patient ID,Name,Age,Gender,Diagnosis,Doctor,Admission Date
+P001,Aarav Mehta,42,Male,Fever,Dr. Rao,2026-09-18
+P002,Priya Shah,29,Female,Migraine,Dr. Kapoor,2026-09-19
+P003,Kabir Verma,54,Male,Diabetes,Dr. Singh,2026-09-20
+P004,Ananya Iyer,36,Female,Asthma,Dr. Menon,2026-09-21
+P005,Rohan Nair,,Male,Back Pain,Dr. Rao,2026-09-22
+P006,Sneha Patel,47,female,Hypertension,Dr. Shah,2026-09-23
+P007,Vikram Joshi,61,Male,,Dr. Mehta,2026-09-24
+ P008 ,Neha Kulkarni,25,Female,Seasonal Allergy,Dr. Kapoor,2026-09-25
+P009,Aditya Bose,33,Male,Food Poisoning,Dr. Menon,2026-09-26
+P010,  Meera Sethi  ,45,Female,Arthritis,Dr. Singh,2026-09-27
+P011,Ishaan Gupta,19,male,Fracture,Dr. Rao,2026-09-28
+P012,Sara Khan,31,Female,Anemia,,2026-09-29
+p013,Dev Malhotra,52,Male,Chest Pain,Dr. Shah,2026-09-30
+P014,Tara Desai,27,Female,Flu,Dr. Mehta,2026-10-01
+P015,Arjun Bhat,39,Male,Gastritis,Dr. Menon,
+P016,Riya Chatterjee,56,Female,Thyroid Disorder,Dr. Singh,2026-10-03
